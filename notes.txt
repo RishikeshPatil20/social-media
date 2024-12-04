@@ -1,0 +1,8 @@
+Here’s an updated version of your resume summary tailored for web development and backend development roles:
+
+- B.E. (Electronics & Telecommunication) graduate with a strong foundation in software development and web technologies.
+- Proficient in developing web applications using Node.js, Express.js, and MVC architecture, with experience in user authentication, form handling, and dynamic content rendering using EJS.
+- Hands-on experience in backend development, including database integration, API development, and implementing authentication systems with JWT.
+- Volunteered at a social cause event, organizing initiatives to address community needs, demonstrating compassion and empathy for social betterment.
+
+This version highlights your backend development skills, focusing on your experience with web technologies and software development.
